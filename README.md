@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Visualization Projects.<br>👯 I’m looking to collaborate on Project regarding ongoing FIFA world cup 2022<br>🤝 I’m looking for help with projects in relation to AI implementation<br>🌱 I’m currently learning Python, Data Science & Visualization<br>💬 Ask me about stuff related to Programming, Data science, UX-Design, and football.<br>⚡ Fun fact : A Proud Gunner. Its the best time to be an Arsenal Fan <br> 
+🔭 I’m currently working on Data Science Projects📘.<br>👯 I’m looking to collaborate on Project regarding ongoing FIFA world cup 2022<br>🤝 I’m looking for help with projects in relation to AI implementation🤖<br>🌱 I’m currently learning Python🐍, Data Science & Visualization<br>💬 Ask me about stuff related to Programming💻, Data science, UX-Design, and football️⚽️.<br>⚡ Fun fact : A Proud Arsenal FC fan ❤️️🖤.<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pranav-shukla-84b94b189) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pranavkumarshukla15)
@@ -21,3 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=PranavlovesData&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
